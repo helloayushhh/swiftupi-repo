@@ -254,7 +254,7 @@ Initial README is written and pushed to GitHub.
 
 # Phase 5: Spring Boot Project Foundation
 
-**Status: Pending**
+**Status: Completed**
 
 ## Objective
 
@@ -278,7 +278,7 @@ The application starts successfully and the foundation is pushed to GitHub.
 
 # Phase 6: Payment & Domain Model
 
-**Status: Pending**
+**Status: Completed**
 
 ## Objective
 
