@@ -4,11 +4,11 @@
 
 swiftupi is a proof-of-concept exploring how a upi payment instruction could be transferred between nearby devices using bluetooth mesh when internet connectivity is unavailable.
 
-### problem
+## problem
 
 in areas with poor or no internet connectivity, users may not be able to initiate or receive digital payments reliably.
 
-### idea
+## idea
 
 swiftupi explores a **store-and-forward** approach:
 
@@ -16,13 +16,13 @@ swiftupi explores a **store-and-forward** approach:
 
 payment instructions can move through nearby devices until they reach the intended recipient or a device with internet connectivity.
 
-### status
+## status
 
 🚧 **pre-development / mvp in progress**
 
 this project is an experimental proof-of-concept, not a production-ready payment system.
 
-### goals
+## goals
 
 - explore offline payment instruction delivery
 - build a bluetooth mesh communication layer
@@ -30,7 +30,7 @@ this project is an experimental proof-of-concept, not a production-ready payment
 - maintain basic transaction state and integrity
 - understand the limitations of offline digital payments
 
-### tech stack
+## tech stack
 
 - java
 - spring boot
@@ -38,6 +38,9 @@ this project is an experimental proof-of-concept, not a production-ready payment
 - sqlite / local storage
 - git & github
 
-### note
+## author
 
 swiftupi does **not** replace upi or process real money. it is being developed for learning, experimentation, and proof-of-concept purposes.
+
+see you in the next build 
+— aps
